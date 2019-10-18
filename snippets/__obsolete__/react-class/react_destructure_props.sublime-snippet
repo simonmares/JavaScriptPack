@@ -3,5 +3,5 @@
 const { ${1:prop} } = this.props;
 ]]></content>
 	<tabTrigger>rdp</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

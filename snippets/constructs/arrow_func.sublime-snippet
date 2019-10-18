@@ -5,5 +5,5 @@
 }
 ]]></content>
 	<tabTrigger>af</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

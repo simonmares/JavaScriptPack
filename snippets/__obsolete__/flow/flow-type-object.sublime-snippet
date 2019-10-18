@@ -5,6 +5,6 @@ type $1 = {|
 |};
 ]]></content>
 	<tabTrigger>fto</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 	<description></description>
 </snippet>

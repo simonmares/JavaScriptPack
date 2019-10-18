@@ -5,6 +5,6 @@ type ${1:identifier} = {
 };
 ]]></content>
 	<tabTrigger>type</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
 <!-- adds type declaration -->

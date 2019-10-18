@@ -6,5 +6,5 @@ ${1} = () => {
 ]]></content>
 	<tabTrigger>pme</tabTrigger>
 	<description>Property method</description>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

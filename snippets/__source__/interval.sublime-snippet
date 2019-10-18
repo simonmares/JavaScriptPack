@@ -6,5 +6,5 @@ setInterval(() => {
 ]]></content>
   <tabTrigger>setInterval</tabTrigger>
   <description>setInterval()</description>
-  <scope>source.js</scope>
+  <scope>source.js,source.ts,source.tsx</scope>
 </snippet>

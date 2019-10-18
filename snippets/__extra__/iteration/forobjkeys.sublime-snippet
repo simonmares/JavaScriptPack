@@ -5,5 +5,5 @@ for (const key of Object.keys(${2:obj})) {
 }
 ]]></content>
 	<tabTrigger>forobjkeys</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

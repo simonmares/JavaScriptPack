@@ -3,5 +3,5 @@
 const ${1:var} = ${2:val};
 ]]></content>
 	<tabTrigger>cnst</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

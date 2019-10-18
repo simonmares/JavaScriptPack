@@ -4,6 +4,6 @@
 
 ]]></content>
 	<tabTrigger>fw</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
 <!-- adds @flow weak annotation -->

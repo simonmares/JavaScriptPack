@@ -3,6 +3,6 @@
 setTimeout(${1:func}, ${2:delay});
 ]]></content>
   <tabTrigger>stt</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js,source.ts,source.tsx</scope>
 </snippet>
 

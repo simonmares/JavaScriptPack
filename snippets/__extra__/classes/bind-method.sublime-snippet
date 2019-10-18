@@ -3,5 +3,5 @@
 this.${1} = this.${1}.bind(this);
 ]]></content>
 	<tabTrigger>bm</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

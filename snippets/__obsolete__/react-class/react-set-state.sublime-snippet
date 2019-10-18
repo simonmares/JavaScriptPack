@@ -3,5 +3,5 @@
 this.setState({ $1 });
 ]]></content>
 	<tabTrigger>rss</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

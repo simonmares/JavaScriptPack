@@ -3,5 +3,5 @@
 console.log(JSON.stringify(${1:var}, null, 2));
 ]]></content>
 	<tabTrigger>cls</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

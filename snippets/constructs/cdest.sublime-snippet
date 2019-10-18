@@ -3,6 +3,6 @@
 const { $1 } = $2;
 ]]></content>
 	<tabTrigger>cdest</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
 <!-- const desctruction -->

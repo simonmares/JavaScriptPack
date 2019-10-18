@@ -4,5 +4,5 @@ console.table(${1})
 ]]></content>
   <tabTrigger>table</tabTrigger>
   <description>console.table()</description>
-  <scope>source.js</scope>
+  <scope>source.js,source.ts,source.tsx</scope>
 </snippet>
