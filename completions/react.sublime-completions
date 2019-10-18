@@ -1,0 +1,4 @@
+{
+	"scope": "javascript.sublime-project",
+	"completions": ["React.Fragment", "defaultProps"]
+}
