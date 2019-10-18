@@ -6,5 +6,5 @@ describe('${1:title}', () => {
 ]]></content>
 	<description>jest: describe</description>
 	<tabTrigger>describe</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

@@ -3,6 +3,6 @@
 ${1:key}={${2:$1}}
 ]]></content>
 	<tabTrigger>jke</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 	<description>(jsx) key={expression}</description>
 </snippet>

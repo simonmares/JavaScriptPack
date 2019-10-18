@@ -3,5 +3,5 @@
 <${1:div}${3}>${2}</${1:div}>
 ]]></content>
 	<tabTrigger>rt</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

@@ -3,5 +3,5 @@
 </${1:tag}>
 ]]></content>
 	<tabTrigger>rtc</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

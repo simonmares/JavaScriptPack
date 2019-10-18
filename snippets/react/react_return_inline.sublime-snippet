@@ -3,5 +3,5 @@
 return <${1:div} />;
 ]]></content>
 	<tabTrigger>rri</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

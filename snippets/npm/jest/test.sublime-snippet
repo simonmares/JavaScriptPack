@@ -6,5 +6,5 @@ test('${1:title}', () => {
 ]]></content>
 	<description>jest: test</description>
 	<tabTrigger>test</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

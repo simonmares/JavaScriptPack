@@ -3,6 +3,6 @@
 import ${1:name} from '${2:${1}}';
 ]]></content>
 	<tabTrigger>idn</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 	<description>Import default from npm</description>
 </snippet>

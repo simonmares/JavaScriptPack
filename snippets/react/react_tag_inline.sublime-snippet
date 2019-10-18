@@ -3,5 +3,5 @@
 <${1:tag} ${2}/>
 ]]></content>
 	<tabTrigger>rti</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

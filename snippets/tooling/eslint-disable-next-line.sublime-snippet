@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>ednl</tabTrigger>
 	<description>eslint disable next line</description>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

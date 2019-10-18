@@ -4,5 +4,5 @@ import { css } from '@emotion/core';
 ]]></content>
 	<tabTrigger>iec</tabTrigger>
     <description>import emotion css</description>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

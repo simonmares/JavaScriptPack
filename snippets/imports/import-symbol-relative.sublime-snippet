@@ -3,6 +3,6 @@
 import { ${1:symbol} } from '../$2';
 ]]></content>
 	<tabTrigger>is</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
 <!-- Import exported symbol. -->

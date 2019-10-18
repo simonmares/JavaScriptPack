@@ -4,6 +4,6 @@
 ]]></content>
 	<tabTrigger>edl</tabTrigger>
 	<description>eslint disable line</description>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
 <!-- Disables eslinter linting on this line -->

@@ -11,5 +11,5 @@ function ${1:FunctionComponent}(props: {|
 }
 ]]></content>
 	<tabTrigger>rf</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

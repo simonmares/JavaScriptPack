@@ -3,5 +3,5 @@
 import * as React from 'react';
 ]]></content>
 	<tabTrigger>iar</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

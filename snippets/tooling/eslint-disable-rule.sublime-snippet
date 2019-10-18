@@ -4,6 +4,6 @@
 ]]></content>
 	<tabTrigger>edr</tabTrigger>
 	<description>eslint disable rule</description>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
 <!-- Disables eslint with optional rule -->

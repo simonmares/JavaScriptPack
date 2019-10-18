@@ -4,5 +4,5 @@ import { Trans } from '@lingui/react';
 ]]></content>
 	<tabTrigger>ilt</tabTrigger>
     <description>import lingui trans</description>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
