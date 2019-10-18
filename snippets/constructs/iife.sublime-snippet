@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>iife</tabTrigger>
 	<description>Immediately invoked function expression</description>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

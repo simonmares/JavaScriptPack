@@ -3,5 +3,5 @@
 throw new Error(${1:'${2:Error}'});
 ]]></content>
 	<tabTrigger>tne</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

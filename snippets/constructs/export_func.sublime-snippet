@@ -5,6 +5,6 @@ export function $1($2) {
 }
 ]]></content>
 	<tabTrigger>ef</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
 <!-- Arrow Function. -->

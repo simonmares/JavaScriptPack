@@ -3,5 +3,5 @@
 export const $1 = $2;
 ]]></content>
 	<tabTrigger>ec</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
