@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import ${1:name} from '${2:${1}}';
+]]></content>
+	<tabTrigger>idn</tabTrigger>
+	<scope>source.js</scope>
+	<description>Import default from npm</description>
+</snippet>

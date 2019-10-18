@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import * as ${1} from '${2:../${1}}';
+]]></content>
+	<tabTrigger>ia</tabTrigger>
+	<scope>source.js</scope>
+	<description>import all as *</description>
+</snippet>

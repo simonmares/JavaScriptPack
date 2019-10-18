@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1:options}/* : ${2:Object} */]]></content>
+	<tabTrigger>fopts</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
+<!-- flow options argument in function with type comment -->

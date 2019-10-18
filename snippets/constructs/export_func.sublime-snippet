@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+export function $1($2) {
+  $3
+}
+]]></content>
+	<tabTrigger>ef</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
+<!-- Arrow Function. -->

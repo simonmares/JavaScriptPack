@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+return <${1:div} />;
+]]></content>
+	<tabTrigger>rri</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

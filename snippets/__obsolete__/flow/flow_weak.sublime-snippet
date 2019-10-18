@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+// @flow weak
+
+]]></content>
+	<tabTrigger>fw</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
+<!-- adds @flow weak annotation -->

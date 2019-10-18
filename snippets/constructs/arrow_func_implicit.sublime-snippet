@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$1 => $2
+]]></content>
+	<tabTrigger>afi</tabTrigger>
+	<scope>source.js</scope>
+	<description>arrow function implicit return</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+const theme = useTheme();
+]]></content>
+	<tabTrigger>rut</tabTrigger>
+	<scope>source.js</scope>
+	<description>react use theme</description>
+</snippet>

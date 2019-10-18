@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/*::
+type $1 = {|
+  $2
+|};
+*/
+]]></content>
+	<tabTrigger>ftoc</tabTrigger>
+	<scope>source.js</scope>
+	<description></description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+$1 = ($2) => {
+	$3
+}
+]]></content>
+	<tabTrigger>mep</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

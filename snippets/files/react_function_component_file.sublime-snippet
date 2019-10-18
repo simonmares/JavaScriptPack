@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+// @flow
+
+import React from 'react';
+
+type LocalProps = {|
+|};
+
+export function ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}(props: LocalProps) {
+	return <div>${1}</div>
+}
+
+]]></content>
+    <tabTrigger>rfcf</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: function component (file template)</description>
+</snippet>

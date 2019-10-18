@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+for (const ${1:var} of ${2:array}) {
+  ${3:stmt}
+}
+]]></content>
+	<tabTrigger>forof</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

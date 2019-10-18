@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+const { ${1:prop} } = this.state;
+]]></content>
+	<tabTrigger>rds</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/* eslint-disable ${1}*/
+]]></content>
+	<tabTrigger>edr</tabTrigger>
+	<description>eslint disable rule</description>
+	<scope>source.js</scope>
+</snippet>
+<!-- Disables eslint with optional rule -->

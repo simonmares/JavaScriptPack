@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+for (const key of Object.keys(${2:obj})) {
+  const val = ${2:obj}[key];
+}
+]]></content>
+	<tabTrigger>forobjkeys</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

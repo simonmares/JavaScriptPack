@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+// @flow
+
+import * as React from 'react';
+
+type LocalProps = {|
+|};
+
+type LocalState = *;
+
+class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}} extends React.Component<LocalProps, LocalState> {
+	render() {
+		return <div>${1}</div>
+	}
+}
+
+export default ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}};
+
+]]></content>
+    <tabTrigger>rccf</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: class component (file template)</description>
+</snippet>

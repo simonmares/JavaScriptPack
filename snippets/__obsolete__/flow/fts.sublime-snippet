@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+/*:: ${1}; */]]></content>
+	<tabTrigger>fts</tabTrigger>
+	<scope>source.js</scope>
+	<description>flow type statement</description>
+</snippet>

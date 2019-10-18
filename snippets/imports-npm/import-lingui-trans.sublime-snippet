@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import { Trans } from '@lingui/react';
+]]></content>
+	<tabTrigger>ilt</tabTrigger>
+    <description>import lingui trans</description>
+	<scope>source.js</scope>
+</snippet>

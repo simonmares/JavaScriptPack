@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+type ${1:identifier} = {
+  $2
+};
+]]></content>
+	<tabTrigger>type</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
+<!-- adds type declaration -->

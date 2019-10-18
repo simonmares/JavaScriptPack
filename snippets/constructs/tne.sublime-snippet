@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+throw new Error(${1:'${2:Error}'});
+]]></content>
+	<tabTrigger>tne</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

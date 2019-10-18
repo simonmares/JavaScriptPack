@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import { css } from '@emotion/core';
+]]></content>
+	<tabTrigger>iec</tabTrigger>
+    <description>import emotion css</description>
+	<scope>source.js</scope>
+</snippet>

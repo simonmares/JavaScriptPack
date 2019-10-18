@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+const lingui = useLingui();
+]]></content>
+	<tabTrigger>rul</tabTrigger>
+	<scope>source.js</scope>
+	<description>react use lingui</description>
+</snippet>

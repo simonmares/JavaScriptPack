@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:key}={${2:$1}}
+]]></content>
+	<tabTrigger>jke</tabTrigger>
+	<scope>source.js</scope>
+	<description>(jsx) key={expression}</description>
+</snippet>

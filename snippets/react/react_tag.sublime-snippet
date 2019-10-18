@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<${1:div}${3}>${2}</${1:div}>
+]]></content>
+	<tabTrigger>rt</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

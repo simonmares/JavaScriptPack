@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import type { ${1:symbol} } from '${2:${1}}';
+]]></content>
+	<tabTrigger>iet</tabTrigger>
+	<scope>source.ts,source.js</scope>
+	<description>Import exported type.</description>
+</snippet>

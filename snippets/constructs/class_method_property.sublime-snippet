@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1} = () => {
+	$2
+}
+]]></content>
+	<tabTrigger>pme</tabTrigger>
+	<description>Property method</description>
+	<scope>source.js</scope>
+</snippet>

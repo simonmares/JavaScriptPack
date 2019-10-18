@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import { ${1:symbol} } from '../$2';
+]]></content>
+	<tabTrigger>is</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
+<!-- Import exported symbol. -->

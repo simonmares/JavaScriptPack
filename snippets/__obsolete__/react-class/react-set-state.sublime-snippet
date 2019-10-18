@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+this.setState({ $1 });
+]]></content>
+	<tabTrigger>rss</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

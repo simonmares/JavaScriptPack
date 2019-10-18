@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+setTimeout(${1:func}, ${2:delay});
+]]></content>
+  <tabTrigger>stt</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
+

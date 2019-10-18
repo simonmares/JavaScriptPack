@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// eslint-disable-next-line ${1}
+]]></content>
+	<tabTrigger>ednl</tabTrigger>
+	<description>eslint disable next line</description>
+	<scope>source.js</scope>
+</snippet>

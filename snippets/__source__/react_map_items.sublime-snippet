@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{${1}.map((_item) => {
+  return <${2:div} key={_item.id}>{${3}}</${2}>;
+})}
+]]></content>
+    <tabTrigger>rmi</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: map items</description>
+</snippet>

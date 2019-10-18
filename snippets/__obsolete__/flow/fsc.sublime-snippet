@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ /*:: ${1:statement} */]]></content>
+	<tabTrigger>fsc</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
+<!-- flow statement comment -->

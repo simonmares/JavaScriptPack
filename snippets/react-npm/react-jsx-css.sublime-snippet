@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+css={css`$1`}
+]]></content>
+	<tabTrigger>ec</tabTrigger>
+	<scope>source.js</scope>
+	<description>emotion css prop</description>
+</snippet>

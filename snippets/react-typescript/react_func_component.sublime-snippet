@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+function ${1:FunctionComponent}(props: {|
+	${5}
+|}) {
+  return (
+    <${3:div}>
+      {${4:props.children}}
+    </${3:div}>
+  );
+}
+]]></content>
+	<tabTrigger>rf</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

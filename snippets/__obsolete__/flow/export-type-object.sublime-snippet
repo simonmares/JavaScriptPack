@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+export type $1 = {|
+  ${2};
+|};
+]]></content>
+	<tabTrigger>eto</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

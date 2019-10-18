@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+// @flow
+
+import * as React from 'react';
+
+import { ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}} } from './${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}';
+
+type UnitProps = \$Shape<React.ElementConfig<typeof ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}>>;
+
+function Unit(props: UnitProps) {
+  return <${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}} {...props} />;
+}
+
+export default {
+  basic: () => <Unit />,
+};
+
+]]></content>
+    <tabTrigger>rcef</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: component example file</description>
+</snippet>

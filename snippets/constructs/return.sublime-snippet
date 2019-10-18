@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+return ${1:var};
+]]></content>
+	<tabTrigger>re</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

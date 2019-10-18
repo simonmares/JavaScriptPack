@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+$1($2) {
+	$3
+}
+]]></content>
+	<tabTrigger>om</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+constructor(props) {
+  super(props);
+}
+]]></content>
+	<tabTrigger>rc</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
