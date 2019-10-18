@@ -2,11 +2,11 @@
 
 This is my generic JavaScript package for sublime text.
 
-features:
+Features:
 
 -   snippets
 
-tech stack:
+Tech stack:
 
 -   "ESNext" JavaScript
 -   TypeScript
