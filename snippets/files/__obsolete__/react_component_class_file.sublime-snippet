@@ -19,6 +19,6 @@ export default ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}};
 
 ]]></content>
     <tabTrigger>rccf</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.ts,source.tsx</scope>
     <description>React: class component (file template)</description>
 </snippet>
