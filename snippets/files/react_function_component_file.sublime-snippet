@@ -1,13 +1,7 @@
 <snippet>
     <content><![CDATA[
-// @flow
-
 import React from 'react';
-
-type LocalProps = {|
-|};
-
-export function ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}(props: LocalProps) {
+export function ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}(props: {}) {
 	return <div>${1}</div>
 }
 
