@@ -1,15 +1,9 @@
 <snippet>
 	<content><![CDATA[
-function ${1:FunctionComponent}(props: {|
-	${5}
-|}) {
-  return (
-    <${3:div}>
-      {${4:props.children}}
-    </${3:div}>
-  );
+function ${1:FunctionComponent}(props: {${5:children: any}}) {
+  return <${3:div} $4>{props.children}</${3:div}>;
 }
 ]]></content>
-	<tabTrigger>rf</tabTrigger>
+	<tabTrigger>rfn</tabTrigger>
 	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
