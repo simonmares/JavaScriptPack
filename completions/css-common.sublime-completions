@@ -1,0 +1,8 @@
+{
+	"scope": "source.ts",
+	"completions": [
+		"center",
+		"column",
+		"row",
+	]
+}

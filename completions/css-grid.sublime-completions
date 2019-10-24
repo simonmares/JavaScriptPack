@@ -1,0 +1,9 @@
+{
+	"scope": "",
+	"completions": [
+		"grid-gap",
+		"grid-template-columns",
+		"grid-template-rows",
+		"max-content"
+	]
+}

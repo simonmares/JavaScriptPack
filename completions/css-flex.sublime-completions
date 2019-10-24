@@ -1,0 +1,10 @@
+{
+	"scope": "source.js,source.ts,source.tsx",
+	"completions": [
+		"flex-direction",
+		"align-self",
+		"align-items",
+		"justify-items",
+		"justify-content"
+	]
+}
