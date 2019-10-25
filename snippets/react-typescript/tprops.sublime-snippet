@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+${1:props}: { $2 }]]></content>
+	<tabTrigger>tp</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>
