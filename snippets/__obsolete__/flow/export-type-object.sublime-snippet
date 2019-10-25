@@ -4,6 +4,6 @@ export type $1 = {|
   ${2};
 |};
 ]]></content>
-	<tabTrigger>eto</tabTrigger>
+	<tabTrigger>feto</tabTrigger>
 	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
