@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+const { $1 } = props;
+]]></content>
+	<tabTrigger>cdest-props</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>
+<!-- const desctruction -->
