@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+($1) => {
+	return $2;
+}
+]]></content>
+	<tabTrigger>afr</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>
