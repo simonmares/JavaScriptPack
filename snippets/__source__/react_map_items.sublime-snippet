@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-{${1}.map((_item) => {
-  return <${2:div} key={_item.id}>{${3}}</${2}>;
+{${1}.map((item) => {
+  return <${2:div} key={item.id}>{${3}}</${2}>;
 })}
 ]]></content>
     <tabTrigger>rmi</tabTrigger>
