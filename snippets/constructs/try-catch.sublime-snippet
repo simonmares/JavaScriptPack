@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+try {
+  $1;
+} catch (${2:e}) {
+  console.error($2)
+}
+]]></content>
+	<tabTrigger>trycatch</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>
+<!-- const desctruction -->
