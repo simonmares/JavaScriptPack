@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+u$3seEffect(() => {
+  $1
+}, [$2]);
+]]></content>
+	<tabTrigger>ue</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+	<description>react use effect</description>
+</snippet>
