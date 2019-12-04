@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+return {
+  $1
+};
+]]></content>
+	<tabTrigger>ro</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>

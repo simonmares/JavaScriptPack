@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+async ($1) => {
+	$2
+}
+]]></content>
+	<tabTrigger>afa</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>
