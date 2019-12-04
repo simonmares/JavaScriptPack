@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+const ${1:val} = await self.resolve(c$2reate${1/(.+)/\u$1/g});
+]]></content>
+  <tabTrigger>car</tabTrigger>
+  <scope>source.js,source.ts,source.tsx</scope>
+</snippet>
