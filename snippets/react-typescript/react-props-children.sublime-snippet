@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+props: { children: React.ReactNode }
+]]></content>
+  <tabTrigger>rpc</tabTrigger>
+  <scope>source.js,source.ts,source.tsx</scope>
+</snippet>
