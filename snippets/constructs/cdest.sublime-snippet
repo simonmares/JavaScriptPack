@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-const { $1 } = $2;
+const { $2 } = $1;
 ]]></content>
 	<tabTrigger>cdest</tabTrigger>
 	<scope>source.js,source.ts,source.tsx</scope>

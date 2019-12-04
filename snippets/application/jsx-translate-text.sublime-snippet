@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+i18n.t`$1`
+]]></content>
+  <tabTrigger>jtt</tabTrigger>
+  <description>(jsx) translate text</description>
+  <scope>source.js,source.ts,source.tsx</scope>
+</snippet>

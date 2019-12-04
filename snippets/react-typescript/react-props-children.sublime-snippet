@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-console.log('${1:var}', ${1:var});
+props: { children: React.ReactNode }
 ]]></content>
-  <tabTrigger>clv</tabTrigger>
+  <tabTrigger>rpc</tabTrigger>
   <scope>source.js,source.ts,source.tsx</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-const { $1 } = opts;
+system={{ $1 }}
 ]]></content>
-	<tabTrigger>cdest-opts</tabTrigger>
+	<tabTrigger>jsp</tabTrigger>
 	<scope>source.js,source.ts,source.tsx</scope>
+	<description>(jsx) system prop</description>
 </snippet>
-<!-- const desctruction -->

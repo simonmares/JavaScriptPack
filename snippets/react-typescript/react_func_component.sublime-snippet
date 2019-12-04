@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-function ${1:FunctionComponent}(props: {${5:children: any}}) {
-  return <${3:div} $4>{props.children}</${3:div}>;
+function ${1:FunctionComponent}(props: {}) {
+  return <${3:div} $4>${1:FunctionComponent}</${3:div}>;
 }
 ]]></content>
 	<tabTrigger>rfn</tabTrigger>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function ${1:FunctionComponent}(props: { children: React.ReactNode }) {
+  return <${3:div} $4>{props.children}</${3:div}>;
+}
+]]></content>
+	<tabTrigger>rfnc</tabTrigger>
+  <description>react-function(component)-(with)children</description>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>

@@ -1,7 +1,8 @@
 <snippet>
 	<content><![CDATA[
-</${1:div}>
+const { $1 } = options;
 ]]></content>
-	<tabTrigger>rtc</tabTrigger>
+	<tabTrigger>cdest-options</tabTrigger>
 	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
+<!-- const desctruction -->

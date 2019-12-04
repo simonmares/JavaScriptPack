@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-</${1:div}>
+<React.Fragment>${1}</React.Fragment>
 ]]></content>
-	<tabTrigger>rtc</tabTrigger>
+	<tabTrigger>rtf</tabTrigger>
 	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>

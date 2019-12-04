@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-console.log('${1:var}', ${1:var});
+import { $2 } from '$1';
 ]]></content>
-  <tabTrigger>clv</tabTrigger>
+  <tabTrigger>fi</tabTrigger>
   <scope>source.js,source.ts,source.tsx</scope>
 </snippet>
