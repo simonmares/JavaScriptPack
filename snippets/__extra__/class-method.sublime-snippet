@@ -4,6 +4,6 @@ $1($2) {
 	$3
 }
 ]]></content>
-	<tabTrigger>om</tabTrigger>
+	<tabTrigger>cm</tabTrigger>
 	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
