@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+React.ComponentType<{}>
+]]></content>
+    <tabTrigger>RCT</tabTrigger>
+    <scope>source.js,source.ts,source.tsx</scope>
+    <description>react: component type</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+React.ComponentProps<typeof $1>[$2]
+]]></content>
+    <tabTrigger>RCPO</tabTrigger>
+    <scope>source.js,source.ts,source.tsx</scope>
+    <description>react: component props</description>
+</snippet>
