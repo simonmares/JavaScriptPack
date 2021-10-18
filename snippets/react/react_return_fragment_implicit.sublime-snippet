@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+return <>${1}</>;
+]]></content>
+	<tabTrigger>rrfi</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>

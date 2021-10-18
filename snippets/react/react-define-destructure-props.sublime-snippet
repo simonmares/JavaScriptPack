@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{ ${1:prop} }: { $1: ${2:type}, ${3:children: React.ReactNode} }
+]]></content>
+  <tabTrigger>rddp</tabTrigger>
+  <description>define props in function component via destruction</description>
+  <scope>source.js,source.ts,source.tsx</scope>
+</snippet>
