@@ -1,11 +1,8 @@
 <snippet>
     <content><![CDATA[
-import React from 'react';
-
-export function ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}(props: {}) {
+export function ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}() {
 	return <div>${1}</div>
 }
-
 ]]></content>
     <tabTrigger>rfcf</tabTrigger>
     <scope>source.js,source.ts,source.tsx</scope>

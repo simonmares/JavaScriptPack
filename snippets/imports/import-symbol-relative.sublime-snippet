@@ -2,7 +2,7 @@
 	<content><![CDATA[
 import { ${1:symbol} } from '../$2';
 ]]></content>
-	<tabTrigger>is</tabTrigger>
+	<tabTrigger>isr</tabTrigger>
 	<scope>source.js,source.ts,source.tsx</scope>
 </snippet>
 <!-- Import exported symbol. -->

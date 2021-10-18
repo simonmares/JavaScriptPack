@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-export function ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}(${2:props: {}}) {
+export function ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}($2) {
 	return $3;
 }
 
