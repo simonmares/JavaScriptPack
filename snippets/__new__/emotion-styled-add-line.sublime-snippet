@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1}: \$\{tokens.${2}\};
+]]></content>
+	<tabTrigger>sl</tabTrigger>
+  <description>emotion styled line</description>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+]]>await new Promise(resolve => setTimeout(resolve, ${1:2000}))</content>
+  <tabTrigger>await-sleep-promise</tabTrigger>
+  <scope>source.js,source.ts,source.tsx</scope>
+</snippet>

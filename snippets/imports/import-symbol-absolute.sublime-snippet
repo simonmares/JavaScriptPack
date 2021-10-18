@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import { ${2} } from '$1';
+]]></content>
+	<tabTrigger>isa</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>
+<!-- Import exported symbol from absolute path. Note that $1 starts on modules to aid autocompletion on the symbol. -->

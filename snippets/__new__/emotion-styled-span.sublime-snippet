@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+const ${1} = styled.span`
+  $2
+`;
+]]></content>
+	<tabTrigger>ss</tabTrigger>
+  <description>emotion styled span</description>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>

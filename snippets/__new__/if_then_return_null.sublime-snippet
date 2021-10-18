@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+if ($1) {
+  return null;
+}
+]]></content>
+	<tabTrigger>irn</tabTrigger>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>

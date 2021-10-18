@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+const ${1} = styled.div`
+  $2
+`;
+]]></content>
+	<tabTrigger>sd</tabTrigger>
+  <description>emotion styled div</description>
+	<scope>source.js,source.ts,source.tsx</scope>
+</snippet>
